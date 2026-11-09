@@ -35,3 +35,12 @@ My current independent research extends my medicinal chemistry background throug
 
 ### Research Status
 Ongoing computational investigations and manuscript preparation. Compound-specific unpublished findings are not disclosed in this public repository.
+## Honors and Awards
+
+### First Runner-Up – R. V. Patel National Best M.Pharm Thesis Competition
+
+Awarded First Runner-Up recognition at the national level for postgraduate research in Medicinal Chemistry.
+
+The research involved the design, synthesis, structural characterization, and biological evaluation of benzoxazole derivatives.
+
+This recognition reflects my early contributions to medicinal chemistry research and provides a foundation for my continuing work in computational drug discovery.
